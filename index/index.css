@@ -1,0 +1,14 @@
+
+body
+{
+	background:url(../pic/bizhi.jpg);
+	background-size:100%;
+	background-repeat: no-repeat;
+}
+a{
+	color:#5eb6cc;
+	font-weight	:700;
+	letter-spacing:2px;
+	font-size:50px;
+
+}
